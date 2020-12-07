@@ -9,9 +9,9 @@
   * EDA/Visualization & Blog Post of Seattle/Boston AirBnB data. ([repo](https://github.com/JVasquez5/Udacity_Data_Scientist_Nanodegree/tree/main/Projects/Blog%20Post))
 
 **IBM/Coursera Machine Learning Professional Certificate**
-  * Supervised Learning: Classification of Fetal Health ([repo](https://github.com/JVasquez5/IBM-Machine-Learning-Professional-Certificate/tree/main/Module_3))
-  * Supervised Learning: Regression of Medical Insurance Cost ([repo](https://github.com/JVasquez5/IBM-Machine-Learning-Professional-Certificate/tree/main/Module_2))
-  * EDA/Visualization of IBM's HR Attrition Dataset ([repo](https://github.com/JVasquez5/IBM-Machine-Learning-Professional-Certificate/tree/main/Module_1))
+  * Supervised Learning: Classification of Fetal Health. ([repo](https://github.com/JVasquez5/IBM-Machine-Learning-Professional-Certificate/tree/main/Module_3))
+  * Supervised Learning: Regression of Medical Insurance Cost. ([repo](https://github.com/JVasquez5/IBM-Machine-Learning-Professional-Certificate/tree/main/Module_2))
+  * EDA/Visualization of IBM's HR Attrition Dataset. ([repo](https://github.com/JVasquez5/IBM-Machine-Learning-Professional-Certificate/tree/main/Module_1))
 
 **IBM/Coursera Data Science Professional Certificate**
   * Analysis of the 2004 Seattle Police Department and Accident Traffic Records Department data. ([repo](https://github.com/JVasquez5/IBM-Data-Science-Professional-Certificate))
